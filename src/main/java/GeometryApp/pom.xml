@@ -16,7 +16,7 @@
         <dependency>
             <groupId>com.example</groupId>
             <artifactId>GeometryLibrary</artifactId>
-            <version>${geometry.library.version}</version>
+            <version>1.1.0</version>
         </dependency>
     </dependencies>
 </project>
